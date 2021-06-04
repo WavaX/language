@@ -1,0 +1,2 @@
+yes | zha
+no  | ash

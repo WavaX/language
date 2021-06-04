@@ -1,0 +1,2 @@
+* good - vebo
+* bad - avebo

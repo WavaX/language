@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b126102f854efb6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d0c89480351f3dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Grammar/Articles.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "342d584f01497b99",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c1c9398ea4061e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aeb19a6d415c692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3e8c5e54260859f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf7840e97ffdf738",
+    "type": "split",
+    "children": [
+      {
+        "id": "d234e1c0836f1113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3a33574a9e106d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grammar/Articles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6d0c89480351f3dd",
+  "lastOpenFiles": [
+    "Grammar/Articles.md",
+    "Grammar/Word Type/Prepositions.md",
+    "Grammar/Word Type/Nouns.md",
+    "Grammar/Comparaisons.md",
+    "Grammar/Pronouns.md",
+    "Grammar/Question.md",
+    "Grammar/Tense.md",
+    "Phonology/Consonants.md",
+    "Phonology/Vowels.md",
+    "Grammar/Word Type/Adjectifs.md"
+  ]
+}
